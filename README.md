@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gsaliou-DS
+- 👀 I’m interested in science and science popularization, physics, data science.
+- 🌱 I’m currently learning Marine Physics at The European Institute for Marine Studies (IUEM)
+- 💞️ I’m looking to collaborate on any project concerning data science and atmosphere or ocean.
+- 📫 You can reach me via my university email gwendal.saliou@etudiant.univ-brest.fr 
